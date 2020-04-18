@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="LinkedList_GTest" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="Add" type="PLAIN_TEXT" />
+      <mapping pattern="Sub" type="PLAIN_TEXT" />
+      <mapping pattern="LinkedList_GTest" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
+      <mapping ext="cilisp" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
