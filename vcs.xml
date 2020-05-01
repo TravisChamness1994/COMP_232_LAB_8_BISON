@@ -98,8 +98,12 @@
           <option name="url" value="https://github.com/TravisChamness1994/COMP_232_CI_LISP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/neil-marcellini/codeCrackers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/COMP_232L" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/COMP_262" />
   </component>
 </application>
